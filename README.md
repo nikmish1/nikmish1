@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Frontend developer @Xebia</h3>
+<h3 align="center">Frontender developer @Xebia</h3>
 
 - 🔭 I’m currently working on [doeasily.live](https://www.doeasily.live/)
 
