@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [doeasily.live](https://www.doeasily.live/)
 
-- 📝 I write articles on [https://medium.com/@nikhil-mishra](https://medium.com/@nikhil-mishra)
+- 📝 I share my learnings on [https://medium.com/@nikhil-mishra](https://medium.com/@nikhil-mishra)
 
 - 💬 Ask me about **JavaScript, ReactJS**
 
