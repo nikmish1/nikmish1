@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">Frontender developer @Xebia</h3>
 
-- 🔭 I’m currently working on [doeasily.live](https://www.doeasily.live/)
+- 🔭 I’m currently working on [Explainerbuddy](https://explainerbuddy.com/)
 
 - 📝 I share my learnings on [https://medium.com/@nikhil-mishra](https://medium.com/@nikhil-mishra)
 
