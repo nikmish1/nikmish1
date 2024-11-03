@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Frontender developer @Xebia</h3>
+ Hi 👋, I'm Nikhil
 
-- 🔭 I’m currently working on [Pic Wisdom](https://picwisdom.com/)
+Hi, I'm Nikhil Mishra! I’m a software engineer who harnesses technology to impact the tech industry and solve creative problems.
 
-- 📝 I share my learnings on [https://medium.com/@nikhil-mishra](https://medium.com/@nikhil-mishra)
-
-- 💬 Ask me about **JavaScript, ReactJS**
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikmish1&show_icons=true&locale=en&layout=compact" alt="nikmish1" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikmish1&show_icons=true&locale=en" alt="nikmish1" /></p> -->
+## About Me
+With experience in software engineering, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. 
+My passion lies in developing software solutions that are scalable and make life easy for people.
 
 <hr/>
 
