@@ -4,7 +4,7 @@ Hi, I'm Nikhil Mishra! I’m a software engineer who harnesses technology to imp
 
 ## About Me
 With experience in software engineering, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. 
-My passion lies in developing software solutions that are scalable and make life easy for people.
+My passion lies in developing scalable software solutions that make life easy for people using them.
 
 <hr/>
 
